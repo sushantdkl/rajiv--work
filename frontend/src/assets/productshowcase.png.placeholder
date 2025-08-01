@@ -1,0 +1,6 @@
+# Placeholder for Product Showcase Image
+
+This file serves as a placeholder. The actual productshowcase.png image should be placed here.
+
+If the image is not found, the component will automatically fall back to:
+https://images.unsplash.com/photo-1544966503-7cc5ac882d5d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80
